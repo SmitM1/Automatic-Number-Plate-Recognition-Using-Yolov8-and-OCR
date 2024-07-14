@@ -1,0 +1,1 @@
+# Automatic-Number-Plate-Recognition-Using-Yolov8-and-OCR
